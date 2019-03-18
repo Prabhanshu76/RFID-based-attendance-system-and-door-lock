@@ -3,5 +3,8 @@
 -The project is aimed mainly toward attendance management in Offices and Colleges. 
 -The project required interfacing Arduino board(ESP32) with RFID sensor, a Servo motor(magnetic door lock can be used for practical implementation) and OlED display to display user information. Daily attendance is uploaded to a server created with JAVA and stored in MySQL Database.
 
-![Farmers Market Finder Demo](RFImages/demo.gif)
+![Demo](RFImages/demo.gif)
+![Login Page](RFImages/Login.png)
+![Registration Page](RFImages/Registration.png)
+![Attendance](RFImages/Attendance.png)
 
